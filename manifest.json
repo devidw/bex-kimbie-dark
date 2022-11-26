@@ -1,0 +1,54 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Kimbie Dark Theme",
+  "theme": {
+    "colors": {
+      "toolbar": [
+        34,
+        26,
+        15
+      ],
+      "toolbar_button_icon": [
+        212,
+        178,
+        144
+      ],
+      "frame": [
+        19,
+        21,
+        16
+      ],
+      "frame_inactive": [
+        0,
+        0,
+        0
+      ],
+      "bookmark_text": [
+        156,
+        110,
+        67
+      ],
+      "tab_text": [
+        212,
+        178,
+        144
+      ],
+      "tab_background_text": [
+        212,
+        178,
+        144
+      ],
+      "omnibox_background": [
+        53,
+        38,
+        18
+      ],
+      "omnibox_text": [
+        218,
+        112,
+        214
+      ]
+    }
+  }
+}
